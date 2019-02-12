@@ -1,16 +1,18 @@
 # PiVagas Empresa
+## App para cadastro, edição e exclusão de vagas.
 
-Projeto create at to Isaias Santana Oliveira.
+### Estudo de caso e funcionalidades: https://docs.google.com/document/d/1QhbUhzR48oJHq0wFr9YSBLiE1GcweukVzC-nudbpvjU/edit
 
-## Getting Started
+### Diagrama de clase: 
 
-This project is a starting point for a Flutter application.
+### Caso de uso:
+<img src="./assets/images/empresa.png">
+<br>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<img src="./assets/images/4.jpg">
+<br>
+<img src="./assets/images/1.jpg">
+<br>
+<img src="./assets/images/3.jpg">
+<br>
+<img src="./assets/images/2.jpg">
